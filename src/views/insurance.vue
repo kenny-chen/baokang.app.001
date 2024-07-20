@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="page-title">Claims</h1>
+        <h1 class="page-title">醫保</h1>
         <div class="bill">
             <div class="bill-box">
                 <div style="color:#989898">醫保餘額</div>

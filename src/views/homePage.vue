@@ -60,7 +60,7 @@ import { moneyFormatter } from '../utils'
 
 .plan-detail {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 120px;
     padding-left: 10px;
 }
 .plan-detail > div:nth-child(2n){

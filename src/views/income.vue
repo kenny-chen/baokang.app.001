@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h1 class="page-title">Income</h1>
+        <h1 class="page-title">資產</h1>
         <div class="income">
             <div class="card">
                 <div class="card-title">
